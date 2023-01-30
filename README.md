@@ -4,4 +4,4 @@
 
 **Work experience with:** Angular, Laravel, PHP, MySQL, AWS, Nodejs
 
-**Freetime:** Elixir, Phoenix Framework, Game development, Security
+**Freetime:** AI shenanigans, Security, Game development
