@@ -4,4 +4,4 @@
 
 **Work experience with:** Angular, Laravel, PHP, MySQL, AWS, Nodejs
 
-**Freetime:** AI shenanigans, Security, Svelte
+**Freetime:** Elixir, AI shenanigans, Security, Svelte
