@@ -7,4 +7,4 @@
 **Freetime:** Nuxt, Elixir, AI shenanigans, Security, Svelte
 
 
-<img src="https://skillicons.dev/icons?i=laravel,angular,ts,react,aws,workers,php,mysql,sqlite,nuxt,elixir,svelte,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,angular,ts,react,aws,cloudflare,workers,php,linux,mysql,sqlite,nuxt,elixir,svelte,tailwind&theme=dark" />
