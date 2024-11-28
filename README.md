@@ -4,4 +4,7 @@
 
 **Work experience with:** Angular, TypeScript, Laravel, PHP, MySQL, AWS
 
-**Freetime:** Nuxt, Elixir, Ruby, AI shenanigans, Security, Svelte
+**Freetime:** Nuxt, Elixir, AI shenanigans, Security, Svelte
+
+
+<img src="https://skillicons.dev/icons?i=laravel,angular,ts,react,aws,workers,php,mysql,sqlite,nuxt,elixir,svelte,tailwind&theme=dark" />
