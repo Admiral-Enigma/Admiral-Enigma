@@ -2,9 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/13486531/149399974-62f62945-2e06-45a3-a4e0-27b98d1d5cae.png" alt="grug" width="200">
 
-**Work experience with:** Angular, TypeScript, Laravel, PHP, MySQL, AWS
+**Work experience with:**
 
-**Freetime:** Nuxt, Elixir, AI shenanigans, Security, Svelte
+<img src="https://skillicons.dev/icons?i=laravel,angular,ts,aws,php,linux,mysql&theme=dark" />
 
+**Freetime:**
 
-<img src="https://skillicons.dev/icons?i=laravel,angular,ts,react,aws,cloudflare,workers,php,linux,mysql,sqlite,nuxt,elixir,svelte,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,react,cloudflare,workers,linux,sqlite,nuxt,elixir,svelte,tailwind&theme=dark" />
