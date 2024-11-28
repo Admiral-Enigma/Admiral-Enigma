@@ -6,6 +6,6 @@
 
 <img src="https://skillicons.dev/icons?i=laravel,angular,ts,aws,php,linux,mysql&theme=dark" />
 
-**Freetime / CS / Sideproject experience with:**
+**Freetime / Comp Sci degree / Sideproject experience with:**
 
 <img src="https://skillicons.dev/icons?i=react,cloudflare,workers,linux,sqlite,nuxt,elixir,svelte,python,java,tailwind&theme=dark" />
